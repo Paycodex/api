@@ -1,0 +1,10 @@
+1- Verifique que los archivos del API de comcodex en PHP, 
+se encuentre el la carpeta "api".
+2. Copie la carpeta "comcodex" en el directorio de prestashop llamado
+"modules".
+3- Ingrese en la seccion de administración de prestashop.
+4- En el menu vertical ubicado en la parte superior de la seccion de administracion, haga click en "Modules".
+5- Busque el modulo de "comcodex" y haga click en donde dice "install".
+6- En la pantalla aparecerán un formulario para la configuración del modulo, llene todos los campos con los datos correctos.
+7- Haga clic en el botón "Actualizar".
+8- En la parte superior de la pagina, aparecerá una lista de perfiles bancarios, active uno haciendo click en el botón con forma de "X".

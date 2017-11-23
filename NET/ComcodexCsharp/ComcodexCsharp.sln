@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comcodex", "ComcodexCsharp\Comcodex.csproj", "{3E2C490E-C493-4D2A-AFDB-44EC842CB5E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosSimulator", "PosSimulator\PosSimulator.csproj", "{4BCB0E91-33DE-4B89-AA0D-D4D03462CA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test api comcodex", "..\..\..\..\..\..\..\..\Desktop\Test api comcodex\Test api comcodex\Test api comcodex.csproj", "{57D217CD-C71E-4D4C-BE10-D0856285B134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shellSimulator", "..\..\..\..\..\..\..\..\shellSimulator\shellSimulator.csproj", "{23C47CBC-3A3E-44D7-A9A9-3BFAD515D841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2C490E-C493-4D2A-AFDB-44EC842CB5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2C490E-C493-4D2A-AFDB-44EC842CB5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2C490E-C493-4D2A-AFDB-44EC842CB5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2C490E-C493-4D2A-AFDB-44EC842CB5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCB0E91-33DE-4B89-AA0D-D4D03462CA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCB0E91-33DE-4B89-AA0D-D4D03462CA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCB0E91-33DE-4B89-AA0D-D4D03462CA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BCB0E91-33DE-4B89-AA0D-D4D03462CA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D217CD-C71E-4D4C-BE10-D0856285B134}.Debug|Any CPU.Build.0 = Debug|x86
+		{57D217CD-C71E-4D4C-BE10-D0856285B134}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{57D217CD-C71E-4D4C-BE10-D0856285B134}.Release|Any CPU.Build.0 = Release|x86
+		{57D217CD-C71E-4D4C-BE10-D0856285B134}.Release|Any CPU.ActiveCfg = Release|x86
+		{23C47CBC-3A3E-44D7-A9A9-3BFAD515D841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C47CBC-3A3E-44D7-A9A9-3BFAD515D841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C47CBC-3A3E-44D7-A9A9-3BFAD515D841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C47CBC-3A3E-44D7-A9A9-3BFAD515D841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
